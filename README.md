@@ -1,13 +1,13 @@
 # CodeQueen-SafeBoda-Hackathon
-A responsive driver onboarding website for driver registration and tracking through their onboarding process.      
+**A responsive driver onboarding website for driver registration and tracking through their onboarding process.**     
 
-# Stages to be tracked:      
+### Stages to be tracked:      
 These are the stages a driver can be in through the onboarding process:       
 ● Registered       
 ● In Training      
 ● Ready for activation                
  
-# Main Features:      
+### Main Features:      
 System user can;      
 ● Access the system through a proper authentication system.       
 ● Register a driver through a registration form.    
